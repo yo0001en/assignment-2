@@ -1,0 +1,44 @@
+body {
+  background-color: #433081;
+}
+h1 {
+  color: white;
+  font-family: helvetica;
+  font-size:30px
+ 
+}
+h2, th {
+  color: white;
+  font-family: helvetica;
+  font-size:25px
+ 
+}
+p, td {
+  color: white;
+  font-family: helvetica;
+}
+nav {
+  color: white;
+  font-family: helvetica;
+  font-size:20px
+}
+
+
+th {
+  text-align: center;
+  vertical-align: middle
+    table-layout: fixed;
+  width: 1080px; 
+}
+
+td {
+  text-align: center;
+  vertical-align: top
+}
+
+table#about td {
+  text-align: center;
+  vertical-align: top;
+  table-layout: fixed;
+  width: 200px; 
+}
